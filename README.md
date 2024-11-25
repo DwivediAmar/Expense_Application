@@ -11,3 +11,4 @@ Python 3.x<br>
 Tkinter (comes pre-installed with Python)<br>
 Pandas<br>
 This application provides a simple and intuitive way to track your spending and generate useful reports to analyze your finances.<br>
+![Expense_Application](Expense.png)
